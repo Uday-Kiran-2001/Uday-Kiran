@@ -37,9 +37,7 @@
 
 ## ✨ Let's Connect!
 
-- 📧 [Email](mailto:uday620622@email.com)
-- 💼 [LinkedIn][(https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/uday-kiran-1602aa271/)
+- 📧 [Email][(mailto:uday620622@gmail.com)]
+- 💼 [LinkedIn][(https://www.linkedin.com/in/uday-kiran-1602aa271/)]
 
 ---
-
-> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
