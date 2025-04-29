@@ -37,7 +37,7 @@
 
 ## ✨ Let's Connect!
 
-- 📧 [Email][(mailto:uday620622@gmail.com)]
+- 📧 [Email][(uday620622@gmail.com)]
 - 💼 [LinkedIn][(https://www.linkedin.com/in/uday-kiran-1602aa271/)]
 
 ---
